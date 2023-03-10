@@ -137,6 +137,12 @@ img {
         border-width: 0 5px 8px 5px;
     }
 
+    .button-input { /*скрытие радио-кнопки*/
+        width: 0;
+        height: 0;
+        display: none;
+    }
+
 }
 
 
@@ -167,5 +173,11 @@ img {
     }
     .button-meme {
         margin: 1% 10% 1% 10%;
+    }
+
+    .button-input { /*скрытие радио-кнопки*/
+        width: 0;
+        height: 0;
+        display: none;
     }
 }
