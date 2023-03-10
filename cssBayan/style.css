@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(165, 158, 158);
+    font-size: 10px;
+    max-width: 1920px;
+    margin: auto;
+}
+
+HTML {
+    scroll-behavior: smooth;
+}
+
+.wrappier {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+header{
+    margin: 7% 15% 0 15%;
+}
+
+h1{
+    font-size: 70px;
+}
